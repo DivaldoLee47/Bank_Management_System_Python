@@ -1,0 +1,4 @@
+S:CTRL1000:super1234:Divaldo Lee
+A:ADMN1001:admin101:Divaldo Lee:081260077728:divaldo.lee@gmail.com:Medan, Indonesia:19/09/2003
+C:CUST1002:mypass00:Steven Yenardi:082210005990:steven.yenard1@gmail.com:Medan, Indonesia:28/11/2003:SAVINGS:125.0
+C:CUST1003:user1234:Eugene Winata:087808783609:eugenewinata@gmail.com:Jakarta, Indonesia:20/09/2000:CURRENT:575.0

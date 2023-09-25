@@ -1,0 +1,4 @@
+CUST1002|Deposit of RM 250.0 SUCCESS! Balance Updated From 100.0 ==> 350.0 on 10/12/2021 at 19:04:57|10/12/2021 
+CUST1002|Withdrawal of RM 150.0 SUCCESS! Balance Updated From 350.0 ==> 200.0 on 10/12/2021 at 19:09:20|10/12/2021 
+CUST1002|Transfer of RM 75.0 to CUST1003 SUCCESS! Balance Updated From 200.0 ==> 125.0 on 11/12/2021 at 22:20:53|11/12/2021 
+CUST1003|Received Transfer of RM 75.0 from CUST1002 SUCCESS! Balance Updated From 500.0 ==> 575.0 on 11/12/2021 at 22:20:53|11/12/2021 
